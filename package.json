@@ -43,7 +43,7 @@
     "hardhat-gas-reporter": "^1.0.6",
     "prettier": "^2.4.1",
     "solhint": "^3.3.6",
-    "solidity-coverage": "^0.8.2",
+    "solidity-coverage": "^0.8.5",
     "typescript": "^3.7.0"
   }
 }
