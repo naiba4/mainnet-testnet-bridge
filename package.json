@@ -23,7 +23,7 @@
     "@uniswap/v3-periphery": "^1.4.3"
   },
   "devDependencies": {
-    "@ethersproject/hardware-wallets": "^5.0.14",
+    "@ethersproject/hardware-wallets": "^5.8.0",
     "@layerzerolabs/prettier-plugin-solidity": "^1.0.0-beta.19",
     "@nomicfoundation/hardhat-network-helpers": "^1.0.6",
     "@nomiclabs/hardhat-ethers": "^2.0.3",
