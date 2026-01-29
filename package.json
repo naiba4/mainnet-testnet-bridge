@@ -31,10 +31,10 @@
     "@nomiclabs/hardhat-waffle": "2.0.3",
     "chai": "^4.3.4",
     "dotenv": "^10.0.0",
-    "eslint": "^7.0.0",
+    "eslint": "^9.26.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.1",
-    "ethereum-waffle": "^3.2.0",
+    "ethereum-waffle": "^4.0.0",
     "ethers": "^5.5.2",
     "hardhat": "^2.12.2",
     "hardhat-contract-sizer": "^2.1.1",
@@ -42,8 +42,8 @@
     "hardhat-deploy-ethers": "^0.3.0-beta.13",
     "hardhat-gas-reporter": "^1.0.6",
     "prettier": "^2.4.1",
-    "solhint": "^3.3.6",
-    "solidity-coverage": "^0.8.2",
+    "solhint": "^3.4.0",
+    "solidity-coverage": "^0.8.6",
     "typescript": "^3.7.0"
   }
 }
